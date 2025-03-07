@@ -6,8 +6,8 @@ rem ****************
 
 set DIR=%~dp0
 
-set SV_ASSETS=zzz_sup_server
-set CL_ASSETS=zzz_sup_client
+set SV_ASSETS=zzz_server
+set CL_ASSETS=zzz_client
 
 rem ***************
 rem START OF SCRIPT 
